@@ -5,3 +5,6 @@ greater
 smaller
 
 medium
+
+more 
+less
