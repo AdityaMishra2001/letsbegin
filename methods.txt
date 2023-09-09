@@ -3,3 +3,5 @@ welcome to the methods
 
 greater
 smaller
+
+medium
